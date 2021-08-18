@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ZepbachVNTM
-- 👀 I’m interested in Coder
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m John
+- 👀 I’m interested in code project
 
 <!---
 ZepbachVNTM/ZepbachVNTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
