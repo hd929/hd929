@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John
-- 👀 I’m interested in project
+- 💪 My skill is javascript, nodejs
 
 <!---
 ZepbachVNTM/ZepbachVNTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
