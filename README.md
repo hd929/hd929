@@ -79,8 +79,12 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hd929&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hd929" /></p>
+<div style="display: flex; justify-content: center;">
+<p><img src="https://github-readme-stats.vercel.app/api?username=hd929&show_icons=true&theme=tokyonight&locale=en" alt="hd929" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hd929&show_icons=true&theme=tokyonight&locale=en" alt="hd929" /></p>
+<div style="display: flex; justify-content: center;">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hd929&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hd929" height=100 /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hd929&theme=tokyonight" alt="hd929" /></p>
+<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=hd929&theme=tokyonight" height=100 alt="hd929" /></p>
+</div>
