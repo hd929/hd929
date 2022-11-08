@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS@18**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <table style="text-align: center">
   <tr>
     <th>IDE</th>
@@ -79,13 +75,8 @@
   </tr>
 </table>
 
-<div style="display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=hd929&show_icons=true&theme=tokyonight&locale=en" alt="hd929" />
-</div>
+<img align=center src="https://github-readme-stats.vercel.app/api?username=hd929&show_icons=true&theme=tokyonight&locale=en" alt="hd929" />
 
-<div style="display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hd929&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hd929" height=100 />
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs?username=hd929&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hd929" height=150 />
 
-&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=hd929&theme=tokyonight" height=100 alt="hd929" />
-
-</div>
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=hd929&theme=tokyonight" height=150 alt="hd929" />
