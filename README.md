@@ -75,8 +75,7 @@
   </tr>
 </table>
 
-<img align=center src="https://github-readme-stats.vercel.app/api?username=hd929&show_icons=true&theme=tokyonight&locale=en" alt="hd929" />
-
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs?username=hd929&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hd929" height=150 />
-
-&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=hd929&theme=tokyonight" height=150 alt="hd929" />
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hd929&show_icons=true&theme=tokyonight&locale=en" alt="hd929" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hd929&langs_count=16&locale=en&layout=compact&theme=tokyonight" alt="hd929" />
+</div>
