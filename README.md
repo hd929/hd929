@@ -31,7 +31,14 @@
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://th.bing.com/th/id/R.437fc1d76dbc3d7eaf0eecede816d60b?rik=pcWQFYXm0NxO7Q&pid=ImgRaw&r=0"
+          alt="Visual Studio Code"
+        />
+      </a>
+    </td>
     <td>
       <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
