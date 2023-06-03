@@ -36,6 +36,8 @@
         <img
           src="https://th.bing.com/th/id/R.437fc1d76dbc3d7eaf0eecede816d60b?rik=pcWQFYXm0NxO7Q&pid=ImgRaw&r=0"
           alt="Visual Studio Code"
+          width="45"
+          height="45"
         />
       </a>
     </td>
