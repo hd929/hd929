@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Han</h1>
+<h1 align="center">Hi 👋, I'm Ajitana H. D</h1>
 <h3 align="center">A passionate frontend, backend developer from <b>Viet Nam</b></h3>
 
 ![-----------------------------------------------------](.github/imgs/lines/water.png)
