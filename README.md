@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ajitana H. D</h1>
+<h1 align="center">Hi 👋, I'm Aji - H</h1>
 <h3 align="center">A passionate frontend, backend developer from <b>Viet Nam</b></h3>
 
 ![-----------------------------------------------------](.github/imgs/lines/water.png)
 
-- 🌱 I’m currently learning **ReactJS@18**
 <img src="https://access-counter.vercel.app/api/counter?name=hd929&theme=006&length=7" />
 <table style="text-align: center">
   <tr>
@@ -16,28 +15,6 @@
         <img
           src="https://raw.githubusercontent.com/LunarVim/LunarVim/master/utils/desktop/48x48/lvim.svg"
           alt="LunarVim"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img
-          src="./.github/imgs/icons/vscode.svg"
-          alt="Visual Studio Code"
-          width="45"
-          height="45"
         />
       </a>
     </td>
@@ -57,25 +34,21 @@
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img
+          src="./.github/imgs/icons/vscode.svg"
+          alt="Visual Studio Code"
+          width="45"
+          height="45"
+        />
+      </a>
+    </td>
     <td>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
           alt="linux"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
           width="40"
           height="40"
         />
