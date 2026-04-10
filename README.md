@@ -1,63 +1,72 @@
 <h1 align="center">Hi 👋, I'm Aji - H</h1>
-<h3 align="center">A passionate frontend, backend developer from <b>Viet Nam</b></h3>
+<h3 align="center">🚀 Fullstack Developer from Viet Nam</h3>
 
-![-----------------------------------------------------](.github/imgs/lines/water.png)
+<p align="center">
+  <img src="https://access-counter.vercel.app/api/counter?name=hd929&theme=006&length=7" />
+</p>
 
-<img src="https://access-counter.vercel.app/api/counter?name=hd929&theme=006&length=7" />
-<table style="text-align: center">
-  <tr>
-    <th>IDE</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.lunarvim.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/LunarVim/LunarVim/master/utils/desktop/48x48/lvim.svg"
-          alt="LunarVim"
-        />
-      </a>
-    </td>
-    <td>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img
-          src="./.github/imgs/icons/vscode.svg"
-          alt="Visual Studio Code"
-          width="45"
-          height="45"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-          alt="linux"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hd929&show_icons=true&theme=tokyonight&locale=en" alt="hd929" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hd929&langs_count=16&locale=en&layout=compact&theme=tokyonight" alt="hd929" />
-</div>
+## 🧑‍💻 About Me
+
+* 💡 Passionate about **Frontend & Backend Development**
+* ⚙️ Love working with **Linux, Docker, and Servers**
+* 🎮 Sometimes build **games & random fun projects**
+* 🌙 Night coder with lofi music
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 IDEs
+
+<p>
+  <img src="https://raw.githubusercontent.com/LunarVim/LunarVim/master/utils/desktop/48x48/lvim.svg" width="45" />
+  <img src="./.github/imgs/icons/vscode.svg" width="45" />
+</p>
+
+### 🌐 Languages & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hd929&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=hd929&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Projects
+
+* 🖥️ Home Server Dashboard
+* 🎮 Mini Games (Pygame)
+* 🌐 Web Apps & APIs
+* ⚙️ Docker-based systems
+
+---
+
+## 🎧 Currently Vibing
+
+```bash
+while(alive) {
+    code();
+    listen("lofi");
+    fix_bugs();
+}
+```
+
+---
+
+<p align="center">
+  ⚡ "It works... don't touch it." ⚡
+</p>
